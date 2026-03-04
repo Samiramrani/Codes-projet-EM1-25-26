@@ -6,7 +6,7 @@
 #include <SoftwareSerial.h>
 
 // Constantes
-const float pi = 3.14159;
+const float pi = 3.14159; // Test
 
 // Données du proto (tt est en cm)
 float Rayon = 2.1;
